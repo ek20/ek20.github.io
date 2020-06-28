@@ -1,5 +1,4 @@
-# James Bond
-## Agent 007
+# James Bond - Agent 007
 
 James Bond wurde am 11. November 1920 als Sohn des schottischen Ingenieurs 
 Andrew Bond aus Glencoe und einer Schweizer Bergsteigerin, der Waadtländerin 
